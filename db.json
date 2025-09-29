@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "title": "Machine Learning Basics",
+      "category": "AI ahe me",
+      "dop": "14-11-2024",
+      "id": "6"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "category": "Prog",
+      "dop": "18-02-2020",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "title": "Introduction to Algorithms",
+      "category": "Algorithms",
+      "photo": "https://picsum.photos/208",
+      "dop": "09-09-2023"
+    },
+    {
+      "id": "9",
+      "title": "React in Action",
+      "category": "Web Development",
+      "photo": "https://picsum.photos/209",
+      "dop": "27-05-2022"
+    },
+    {
+      "id": "10",
+      "title": "Database Systems",
+      "category": "Database",
+      "photo": "https://picsum.photos/210",
+      "dop": "30-06-2021"
+    }
+  ]
+}
